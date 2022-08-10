@@ -5652,7 +5652,7 @@ body textarea:required:valid {
     position: absolute;
     width: 82px;
     height: 83px;
-    background-image: url(../img/_src/1.png);
+    background-image: url(./img/_src/1.png);
     right: 15.2777777778%;
     bottom: 0;
     -webkit-transform: translateY(50%);
